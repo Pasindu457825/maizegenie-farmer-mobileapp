@@ -9,7 +9,7 @@ The system is offline-capable and uses **explainable AI (SHAP/LIME)** to ensure 
 ## 🚀 Features
 
 - 📈 **Corn Price Forecasting & Cultivation Timing**  
-  Short-term price predictions (4–8 weeks) using ARIMA, Prophet, LSTM, and GRU, with traffic-light signals (Sell Now / Stable / Wait).  
+  Short-term price predictions (1–4 weeks) using ARIMA, Prophet, LSTM, and GRU, with traffic-light signals (Sell Now / Stable / Wait).  
 
 - 🌱 **Yield Prediction & Fertilizer Advisory**  
   Role-based outputs (Farmer & Agri Officer) with localized soil baselines and CIC fertilizer protocols.  
