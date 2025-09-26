@@ -12,7 +12,7 @@ export default function App() {
   return (
     <View style={{ padding: 50 }}>
       <Button
-        title="Check API Health"
+        title="Checks API Health"
         onPress={async () => {
           try {
             const r = await axios.get(`${API_BASE}/health`);
